@@ -1,0 +1,6 @@
+[submodule "docs"]
+	path = docs
+	url = git@github.com:pdbartlett/docs.git
+[submodule "camsoc"]
+	path = camsoc
+	url = git@github.com:pdbartlett/camsoc.git
