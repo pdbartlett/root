@@ -7,3 +7,6 @@
 [submodule "misc-stuff"]
 	path = misc-stuff
 	url = git@github.com:pdbartlett/misc-stuff.git
+[submodule "pdbartlett.github.io"]
+	path = pdbartlett.github.io
+	url = git@github.com:pdbartlett/pdbartlett.github.io.git
