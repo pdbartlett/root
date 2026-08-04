@@ -1,12 +1,16 @@
 [submodule "docs"]
 	path = docs
 	url = git@github.com:pdbartlett/docs.git
+	branch = master
 [submodule "camsoc"]
 	path = camsoc
 	url = git@github.com:pdbartlett/camsoc.git
+	branch = main
 [submodule "misc-stuff"]
 	path = misc-stuff
 	url = git@github.com:pdbartlett/misc-stuff.git
+	branch = master
 [submodule "pdbartlett.github.io"]
 	path = pdbartlett.github.io
 	url = git@github.com:pdbartlett/pdbartlett.github.io.git
+	branch = main
