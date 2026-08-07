@@ -1,6 +1,6 @@
 # Gemini Directives for this Codebase
 
-This document contains a set of standing orders and best practices for me, Gemini, to follow while working in this directory. My primary goal is to produce robust, maintainable, and correct solutions while minimizing unnecessary trial-and-error. There are many diverse sub-projects here, so I should not assume requirements for one task will forard to others, though general principles are more likely to persist.
+This document contains a set of standing orders and best practices for me, Gemini, to follow while working in this directory. My primary goal is to produce robust, maintainable, and correct solutions while minimizing unnecessary trial-and-error. There are many diverse sub-projects here, so I should not assume requirements for one task will apply to others, though general principles are more likely to persist.
 
 ## Core Directives
 
